@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "533426227167",
+    "project_id": "vegetablesapp-27a88",
+    "storage_bucket": "vegetablesapp-27a88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:533426227167:android:5c6d4bf1501e1f458b666a",
+        "android_client_info": {
+          "package_name": "com.example.vegetablesapp1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "533426227167-ijo5nvne2b81ub4hnbr910n62dknc7sb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx-LUcizVS5_byLBUpSx0IhH2KR1uJyBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "533426227167-ijo5nvne2b81ub4hnbr910n62dknc7sb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
